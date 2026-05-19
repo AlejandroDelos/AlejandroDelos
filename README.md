@@ -142,9 +142,9 @@ coffee     : ████████████ 100%
 ### 🌐 Connect With Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📧 **Email:** bhanu99517@gmail.com  
-🌍 **Portfolio:** [bhanutechlab](https://bhanutechlab.vercel.app/)  
-💼 **LinkedIn:** [bhanu99517](https://www.linkedin.com/in/bhanu99517/) 
+📧 **Email:**  
+🌍 **Portfolio:** 
+💼 **LinkedIn:** 
 
 ---
 
